@@ -56,7 +56,8 @@ The script will output details about the search process, including the number of
 
 ## Author
 
-Aravindh Gopalsamy
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
 
 ## License
 
