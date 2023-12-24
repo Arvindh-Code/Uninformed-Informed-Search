@@ -56,7 +56,7 @@ The script will output details about the search process, including the number of
 
 ## Author
 
-[Your Name]
+[Aravindh Gopalsamy]
 
 ## License
 
