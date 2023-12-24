@@ -56,13 +56,8 @@ The script will output details about the search process, including the number of
 
 ## Author
 
-[Aravindh Gopalsamy]
+Aravindh Gopalsamy
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `[Your Name]` with your name or the appropriate attribution. If you have a license file, replace `LICENSE` with the correct filename.
-
-Feel free to customize and expand upon this template based on your specific needs.
