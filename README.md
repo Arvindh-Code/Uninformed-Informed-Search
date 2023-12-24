@@ -61,4 +61,8 @@ The script will output details about the search process, including the number of
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not open for external use or distribution. All rights reserved.
+
+## Important Note for Students
+
+**Warning:** This code is intended for educational purposes only. Please do not use this code for any assignment, and consider it as a reference implementation. Use your own implementation for academic assignments.
